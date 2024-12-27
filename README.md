@@ -59,7 +59,6 @@ You can find projects in my repositories. Feel free to check them out!
 
 - **LinkedIn**: (https://www.linkedin.com/in/elsabet-yemane/)
 - **Email**: elayemu@gmail.com
-- **Personal Website/Blog**: [Your Website URL]
 
 
 📍 Addis Ababa, Ethiopia  

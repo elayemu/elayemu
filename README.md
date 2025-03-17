@@ -1,4 +1,6 @@
-# 👋 Hi there! I’m Elsabet Yemane Girma
+<marquee behavior="scroll" direction="left">
+  # 👋 Hi there! I’m Elsabet Yemane Girma
+</marquee>
 
 I’m a passionate Data Scientist with a knack for uncovering insights and transforming data into actionable strategies. With a background in statistics, programming, and machine learning, I thrive on tackling complex problems and delivering data-driven solutions.
 
@@ -72,7 +74,7 @@ You can find projects in my repositories. Feel free to check them out!
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+251912834933)  
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://shorturl.at/8JHbL)  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EllaYemu)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinusername)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsabet-yemane)  
 [![TikTok](https://img.shields.io/badge/-TikTok-69C9D0?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/ella_yemu?_t=8sB1wHnbcuM)  
 
 

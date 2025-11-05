@@ -6,8 +6,7 @@ I’m a passionate Data Scientist with a knack for uncovering insights and trans
 
 ## 🌱 About Me
 
-- 🎓 I hold a Master's Degree in Project Management from Maryland International College.
-- 💼 Currently working as a Data Science Intern at GO2COD 
+- 💼 Currently working as a Markrting Manager at Haji Saddam Jewellery for the old trading section. 
 - 🔍 My main areas of interest are:
   - Machine Learning & Deep Learning
   - Data Visualization
